@@ -1,0 +1,7 @@
+# **Robot Sensor Fusion**
+
+This is a collection of sensor fusion algorithms and other code to use them implemented in Java.  I developed this for my thesis a few years back.
+
+Whether or not I continue working on them is up in the air, but I thought I'd give anyone a shot at them.  If folks start using them or send some pull requests, I'd be happy to administrate!
+
+License: MIT
